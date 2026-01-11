@@ -1,6 +1,3 @@
-#Install packages. If packages have been previously installed, skip this part.
-install.packages(c("FactoMineR", "factoextra", 'ggplot2'))
-
 #Read packages
 library("ggplot2")
 library("FactoMineR")
