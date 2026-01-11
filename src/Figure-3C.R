@@ -6,7 +6,7 @@ library(rstatix)
 
 
 # Input Data
-# Please check working_data directory for information about how to download and process the rds files below. One txt files called Ewing_cell_lines_microarray.txt 
+# Please check working_data directory for information about how to download and process the rds files below. One txt file called Ewing_cell_lines_microarray.txt 
 # is provided related to Ewing_cell_lines_microarray.rds and Metadata_GSE176190-90-cells.rds, respectively.
 GSE176190 <- readRDS('working_data/Ewing_cell_lines_microarray.rds') 
 metadata_GSE176190 <- readRDS('Metadata_GSE176190-90-cells.rds')
