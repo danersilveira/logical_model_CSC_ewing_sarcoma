@@ -1,0 +1,6 @@
+EWS_FLI1,c_Myc,LIN28,Let_7,OCT4,STAT3,miR_145,SOX2,PHENOTYPE
+EWS_FLI1_0,c_Myc_0,LIN28_0,Let_7_1,OCT4_0,STAT3_0,miR_145_1,SOX2_0,Differentiated state
+EWS_FLI1_0,c_Myc_0,LIN28_0,Let_7_1,OCT4_1,STAT3_0,miR_145_0,SOX2_1,Partially differentiated state
+EWS_FLI1_1,c_Myc_0,LIN28_0,Let_7_1,OCT4_1,STAT3_0,miR_145_0,SOX2_1,Partially differentiated state
+EWS_FLI1_1,c_Myc_0,LIN28_1,Let_7_1,OCT4_1,STAT3_0,miR_145_0,SOX2_1,Partially differentiated state
+EWS_FLI1_1,c_Myc_1,LIN28_1,Let_7_0,OCT4_1,STAT3_1,miR_145_0,SOX2_1,Undifferentiated state
