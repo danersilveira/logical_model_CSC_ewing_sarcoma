@@ -1,7 +1,7 @@
 # Logical model file used to generate the figures for the article entitled "Systems biology approach reveals the dynamics of cancer stem cell acquisition in Ewing sarcoma: the role of let-7 and miR-145 regulatory circuits"
 
 
-This repository aims to share the logical model regarding the article entitled "Systems biology approach reveals the dynamics of cancer stem cell acquisition in Ewing sarcoma: the role of let-7 and miR-145 regulatory circuits"
+This repository aims to share the logical model regarding the article entitled "Systems biology approach reveals the dynamics of cancer stem cell acquisition in Ewing sarcoma: the role of let-7 and miR-145 regulatory circuits". The scripts required to reproduce the data presented in the figures of the manuscript are also provided.
 
 ## Requirements
 
